@@ -1,39 +1,39 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <title>俄罗斯方块离线游戏</title>
-        <style>
-            body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, button, textarea, p, blockquote, th, td {
-                padding: 0;
-                margin: 0;
+<！doctype html>
+<超文本标记语言>
+    <头>
+        <元http-equiv="内容类型" 内容="text/html；charset=utf-8"/>
+        <标题>俄罗斯方块离线游戏</标题>
+        <风格>
+body，div，dl，dt，dd，ul，ol，li，h1，h2，h3，h4，h5，h6，pre，form，fieldset，input，button，textarea，p，blockquote，th，td{
+                填充:0;
+                边缘:0;
             }
 
-            body {
-                font-family: "Helvetica Neue", "Hiragino Sans GB", "Segoe UI", "Microsoft Yahei", "微软雅黑", Tahoma, Arial, STHeiti, sans-serif;
-                font-size: 12px;
-                background: #fff;
-                color: #333;
+身体{
+                字体系列:"Helvetica Neue","平野无GB","Segoe UI","Microsoft Yahei","微软雅黑",宋体,Arial,ST海伊提,无衬线;
+                字体大小:12PX;
+                背景：#fff；
+                颜色: #333;
             }
 
-            a {
-                outline: none;
-                -moz-outline: none;
-                text-decoration: none;
+一个{
+                概要:没有一个;
+                -moz-outline:没有一个;
+                文字装饰:没有一个;
             }
 
-            .wrap {
-                width: 1000px;
-                margin: 10px auto;
+.wrap{
+                宽度:1000PX;
+                边缘:10PX 自动;
             }
 
-            .play_wrap {
-                padding-left: 260px;
+.Play_wrap{
+                左填充:260PX;
             }
 
-            #play_area {
-                float: left;
-                width: 300px;
+#play_area{
+                漂浮:左;
+                宽度:300PX;
                 height: 480px;
                 margin: auto;
                 background-color: #fefefe;
